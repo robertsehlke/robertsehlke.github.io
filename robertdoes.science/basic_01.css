@@ -1,0 +1,64 @@
+.headline {
+	font-family: 'Raleway', sans-serif;
+	font-weight:100;
+	font-size: 2.5em;
+	color: #f2673a;
+	line-height: 1;
+	margin-top: 2px;
+}
+
+.emph {
+	font-size: 1em;
+	display: inline-block;
+}
+
+.sectionheader {
+	color: #f2673a;
+	font-weight:100;
+	font-size: 1.2em;
+	text-align: left;
+	width: 100%;
+	vertical-align: middle;
+	color: #f2673a; 
+}
+
+#main {
+	background-color: rgba(21, 23, 25, 0.8);
+	border-radius: 10px;
+	margin-left: auto;
+    margin-right: auto;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    width: 32em;
+	font-family: 'Raleway', sans-serif;
+	font-weight: 400;
+	font-size: 1em;
+	color: lightgrey;
+	line-height: 1.4;
+	hyphens: auto;
+	-webkit-hyphens:auto;
+}
+
+body {
+	/*background-color: #151719;*/
+	background-color: #ffffff;
+	background-image: url("heatbg_g.svg");
+	background-repeat: repeat-x;
+}
+
+a {
+    color: #218be0;
+    text-decoration: none;
+}
+
+.impressum {
+	font-family: 'Raleway', sans-serif;
+	font-weight: 400;
+	font-size: 1em;
+	color: lightgrey;
+	font-size: 0.8em;
+	color: grey;
+	line-height: 1.2;
+}
